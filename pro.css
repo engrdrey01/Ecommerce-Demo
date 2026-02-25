@@ -10,10 +10,6 @@
         align-items: center;
     }
 
-    .head {
-        flex-direction: column;
-        align-items: center;
-    }
 
     .smallbody {
         flex-direction: column;
